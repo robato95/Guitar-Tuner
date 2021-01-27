@@ -12,3 +12,5 @@ A simple guitar tuner that I created as a final project for one of my introducti
 
 [a] 3 seconds [b] 5 seconds [c] 10 seconds
 
+![](/pictures/Classes%20%26%20Objects.png)
+
