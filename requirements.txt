@@ -1,3 +1,2 @@
 musicalbeeps
-tkinter
 functools
